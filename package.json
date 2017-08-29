@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-5min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "babel-node": "babel-node --presets=/*a*/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "sequency": "^0.8.0",
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-mocha-framework": "^0.5.11",
+    "webdriverio": "^4.8.0"
+  }
+}
